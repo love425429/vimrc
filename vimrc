@@ -75,3 +75,9 @@ set completeopt=menu
 "搜索高亮
 set hlsearch
 
+"设置默认编码格式
+set encoding=utf8
+"程序中的缩进
+set softtabstop=4
+"程序中自动缩进
+set shiftwidth=4
